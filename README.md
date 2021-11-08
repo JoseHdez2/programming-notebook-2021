@@ -1,3 +1,3 @@
-# advanced-js-foundations
+# Programming Notebook
 
-Follow-along of the "Advanced JavaScript Foundations" egghead.io course by Tyler Clark.
+Showcase of programming language features.
